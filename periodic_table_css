@@ -1,0 +1,58 @@
+td{
+	background-color: blue;
+	width: 60px; 
+	height: 60px;
+	text-align: center;
+	border:1px solid black; ;
+
+}
+.cyan{
+	background-color:cyan;
+}
+table{
+	border-collapse: collapse;
+}
+.blank{
+	background-color: white;
+	border: none;
+}
+.spacer{
+	width: auto;
+	height: 20px;
+	background-color: white;
+	border: none;
+}
+.maroon{
+	background-color: #CC0066;
+}
+.orange{
+	background-color: #FF9966;
+
+}
+.lavender{
+	background-color: #CC99FF;
+;
+
+}
+.purple{
+	background-color: purple;
+}
+.Magenta{
+	background-color: #FF66CC
+}	
+.gray{
+	background-color: #C3C9C5;
+}
+.green{
+	background-color: #333300;
+}
+.turquoise{
+	background-color: #0099FF;
+}
+.peach{
+	background-color: #FFCC66
+;
+}
+.grey{
+	background-color: #949C96;
+}
