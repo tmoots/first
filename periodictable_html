@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <link href="stylesheet.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="js/script.js" type="text/javascript"></script>  <title>Sample Page</title>
+ </head>
+ <body>
+ 	<table>
+ 		<tr>
+ 			<td class="cyan"> H </td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="turquoise">He</td>
+ 		</tr> 
+		
+ 		<tr>
+ 			<td class = "maroon">Li</td>
+ 			<td class = "orange">Be</td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="grey">B</td>
+ 			<td class="cyan">C</td>
+ 			<td class="cyan">N</td>
+ 			<td class="cyan">O</td>
+ 			<td class="peach">F</td>
+ 			<td class= "turquoise">Ne</td>
+ 		</tr>
+		<tr>
+			<td class = "maroon">Na</td>
+ 			<td class = "orange">Mg</td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+ 			<td class = "green">Al</td>
+ 			<td class = "grey">Si</td>
+ 			<td class= "cyan">P</td>
+ 			<td class= "cyan">S</td>
+ 			<td class = "peach">Cl</td>
+ 			<td class = "turquoise">Ar</td>
+		</tr>
+		<tr>
+			<td class = "maroon">K</td>
+ 			<td class = "orange">Ca</td>
+ 			<td class = "lavender">Sc</td>
+ 			<td class = "lavender">Ti</td>
+ 			<td class = "lavender">V</td>
+ 			<td class = "lavender">Cr</td>
+			<td class = "lavender">Mn</td>
+ 			<td class = "lavender">Fe</td>
+ 			<td class = "lavender">Co</td>
+			<td class = "lavender">Ni</td>
+ 			<td class = "lavender">Cu</td>
+ 			<td class = "lavender">Zn</td>
+ 			<td class = "green">Ga</td>
+ 			<td class = "grey">Ge</td>
+ 			<td class = "grey">As</td>
+ 			<td class = "cyan">Se</td>
+ 			<td class = "peach">Br</td>
+ 			<td class = "turquoise">Kr</td>
+		</tr>
+		<tr>
+			<td class = "maroon">Rb</td>
+ 			<td class = "orange">Sr</td>
+ 			<td class = "lavender">Y</td>
+ 			<td class = "lavender">Zr</td>
+ 			<td class = "lavender">Nb</td>
+ 			<td class = "lavender">Mo</td>
+			<td class = "lavender">Tc</td>
+ 			<td class = "lavender">Ru</td>
+ 			<td class = "lavender">Rh</td>
+			<td class = "lavender">Pd</td>
+ 			<td class = "lavender">Ag</td>
+ 			<td class = "lavender">Cd</td>
+ 			<td class = "green">In</td>
+ 			<td class = "green">Sn</td>
+ 			<td class = "grey">Sb</td>
+ 			<td class = "grey">Te</td>
+ 			<td class = "peach">I</td>
+ 			<td class = "turquoise">Xe</td>
+		</tr>
+		<tr>
+			<td class = "maroon">Cs</td>
+ 			<td class = "orange">Ba</td>
+ 			<td class = "Magenta">*Lu</td>
+ 			<td class = "lavender">Hf</td>
+ 			<td class = "lavender">Ta</td>
+ 			<td class = "lavender">W</td>
+			<td class = "lavender">Re</td>
+ 			<td class = "lavender">Os</td>
+ 			<td class = "lavender">Ir</td>
+			<td class = "lavender">Pt</td>
+ 			<td class = "lavender">Au</td>
+ 			<td class = "lavender">Hg</td>
+ 			<td class = "green">Tl</td>
+ 			<td class = "green">Pb</td>
+ 			<td class = "green">Bi</td>
+ 			<td class = "grey">Po</td>
+ 			<td class = "peach">At</td>
+ 			<td class = "turquoise">Rn</td>
+		</tr>
+		<tr>
+			<td class ="maroon">Fr</td>
+ 			<td class = "orange">Ra</td>
+ 			<td class = "purple">**Lr</td>
+ 			<td class = "lavender">Rf</td>
+ 			<td class = "lavender">Db</td>
+ 			<td class = "lavender">Sg</td>
+			<td class = "lavender">Bh</td>
+ 			<td class = "lavender">Hs</td>
+ 			<td class = "gray">Mt</td>
+			<td class = "gray">Ds</td>
+ 			<td class = "gray">Rg</td>
+ 			<td class = "lavender">Cn</td>
+ 			<td class = "gray">Uut</td>
+ 			<td class = "gray">Uuq</td>
+ 			<td class = "gray">Uup</td>
+ 			<td class = "gray">Uuh</td>
+ 			<td class = "gray">Uus</td>
+ 			<td class = "gray">Uuo</td>
+		</tr>
+		<tr>
+			<td class="spacer"></td>
+		</tr>
+		<tr>
+			<td class="blank"></td>
+			<td class="Magenta">*</td>
+ 			<td class="Magenta">La</td>
+ 			<td class="Magenta">Ce</td>
+ 			<td class="Magenta">Pr</td>
+ 			<td class="Magenta">Nd</td>
+ 			<td class="Magenta">Pm</td>
+			<td class="Magenta">Sm</td>
+ 			<td class="Magenta">Eu</td>
+ 			<td class="Magenta">Gd</td>
+			<td class="Magenta">Tb</td>
+ 			<td class="Magenta">Dy</td>
+ 			<td class="Magenta">Ho</td>
+ 			<td class="Magenta">Er</td>
+ 			<td class="Magenta">Tm</td>
+ 			<td class="Magenta">Yb</td>
+ 			<td class="blank"></td>
+ 			<td class="blank"></td>
+		</tr>
+		<tr>
+			<td class="blank"></td>
+ 			<td class ="purple">**</td>
+ 			<td class ="purple">Ac</td>
+ 			<td class ="purple">Th</td>
+ 			<td class ="purple">Pa</td>
+			<td class ="purple">U</td>
+ 			<td class ="purple">Np</td>
+ 			<td class ="purple">Pu</td>
+			<td class ="purple">Am</td>
+ 			<td class ="purple">Cm</td>
+ 			<td class ="purple">Bk</td>
+ 			<td class ="purple">Cf</td>
+ 			<td class ="purple">Es</td>
+ 			<td class ="purple">Fm</td>
+ 			<td class ="purple">Md</td>
+ 			<td class ="purple">No</td>	
+		</tr>
+ 	</table>
+
+ </body>
+</html>
